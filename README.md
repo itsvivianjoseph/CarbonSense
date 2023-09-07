@@ -58,3 +58,5 @@ The client will run on http://localhost:3000, and the server will run on http://
 
 
 Feel free to customize it further to suit your project's unique details and requirements.
+
+note : the project is yet to be integrated.
