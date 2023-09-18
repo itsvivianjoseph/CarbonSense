@@ -172,7 +172,7 @@ const Datatable = () => {
   </div>
 </div>
 
-{wasteInfo && (
+    {wasteInfo && (
                 <div className="waste-info">
                   <h3>User Contribution:</h3>
                   <div className="progress-bar-container">
