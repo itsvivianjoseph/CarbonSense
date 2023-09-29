@@ -54,12 +54,7 @@
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }  */
 
-.train-card-container {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
-}
-
+/*
 .train-card {
   background: linear-gradient(5deg, rgba(183, 232, 186, 1) 0%, rgba(155, 199, 199, 1) 100%);
   border: 2px solid #2e8e6f;
@@ -114,4 +109,108 @@
   background-color: #246b57;
   transform: translateY(-2px);
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+} */
+.train-card-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  /* flex-wrap: wrap; */
+  /* justify-content: space-between; */
+  /* flex-direction: row; */
 }
+.columns-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%; /* Center content vertically within the Slider */
+}
+.columns {
+  width: 18em;
+  position: relative;
+  border-radius: 20px;
+  padding: 35px;
+  border: 2px solid black;
+  transition: all 0.4s;
+  /* margin: 10px; Remove margin */
+}
+/* .columns {
+  width: 18em;
+  position: relative;
+  border-radius: 20px;
+  padding: 35px;
+  border: 2px solid black;
+  transition: all 0.4s;
+  margin: 10px;
+} */
+
+.columns:hover {
+  box-shadow: 4px 4px 0 1px rgba(0, 0, 0);
+}
+
+.dots {
+  position: absolute;
+  right: 15px;
+  top: 15px;
+}
+
+.columns .button-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 30px;
+  margin-bottom: 20px;
+}
+
+.offer {
+  font-size: 17px;
+  font-weight: 900;
+  border-bottom: 2px solid black;
+  cursor: pointer;
+  transition: all 0.4s;
+}
+
+.btn {
+  padding: 15px 20px;
+  border: 1px solid black;
+  background-color: #00ffa0;
+  border-radius: 10px;
+  letter-spacing: 1px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.4s;
+}
+.columns-container .columns .content
+{
+  height: 520px;
+}
+.columns:hover .btn {
+  box-shadow: 2px 2px 0 1px rgba(0, 0, 0);
+}
+
+.columns:hover .offer {
+  color: green;
+  border-color: green;
+}
+
+.btn:focus {
+  background: transparent;
+}
+
+.secondary-heading {
+  font-size: 20px;
+  font-weight: 800;
+  margin-bottom: 20px;
+}
+
+.card-description {
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 2;
+}
+
+h2{
+  text-align: center;
+  margin:20px;
+}
+

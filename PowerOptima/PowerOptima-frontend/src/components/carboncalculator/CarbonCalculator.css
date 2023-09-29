@@ -202,3 +202,61 @@ tbody td {
   color: #333;
   margin-left: 700px;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Styling for the table container */
+.emission-stats table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+  background-color: #f2f2f2; /* Background color for the entire table */
+  font-family: Arial, sans-serif; /* Change the font family */
+}
+
+/* Styling for table headers */
+.emission-stats th {
+  background-color:#27ae60; /* Background color for header cells */
+  color: white; /* Font color for header cells */
+  text-align: center;
+  padding: 12px;
+  font-weight: bold;
+  text-transform: uppercase; /* Change text to uppercase */
+}
+
+/* Styling for table cells (data) */
+.emission-stats td {
+  text-align: center;
+  padding: 8px;
+  font-weight: normal; /* Reset font weight to normal */
+}
+
+/* Styling for table rows */
+.emission-stats tr:nth-child(even) {
+  background-color: #ffffff; /* Alternate row background color */
+}
+
+/* Styling for the percentage values */
+.emission-stats td.percentage {
+  color: 27ae60; /* Blue color for percentage values */
+  font-weight: bold;
+}
+
+/* Styling for gCO2/kWh values */
+.emission-stats td.gco2 {
+  color: #dc3545; /* Red color for gCO2/kWh values */
+  font-weight: bold;
+}
+

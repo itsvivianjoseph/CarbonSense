@@ -164,12 +164,12 @@ const Datatable = () => {
     <img src={process.env.PUBLIC_URL + wasteInfo.imageUrl} alt={user.municipality} />
   </div>
   <div className="municipality-details">
-    <h3>Waste Details for {user.municipality}</h3>
-  
-    <p>Waste Amount: {wasteInfo.wasteAmount}</p>
-    <p>Severity: {wasteInfo.severity}</p>
-    <p>{wasteInfo.description}</p>
-  </div>
+      <h3 className="card-title">Waste Details for {user.municipality}</h3>
+      <p className="small-desc">Waste Amount: {wasteInfo.wasteAmount}</p>
+      <p className="small-desc">Severity: {wasteInfo.severity}</p>
+      <p className="small-desc">{wasteInfo.description}</p>
+      {/* Rest of your component */}
+    </div>
 </div>
 
     {wasteInfo && (

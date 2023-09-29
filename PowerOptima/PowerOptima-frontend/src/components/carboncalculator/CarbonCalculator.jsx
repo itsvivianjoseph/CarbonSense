@@ -1,6 +1,8 @@
 import React, { useEffect, useState } from 'react';
 import axios from 'axios';
 import CarbonCalculator from './CarbonCalculator.css'
+
+
 const EmissionCalculatorForm = () => {
   
   const [power, setPower] = useState(null);
@@ -19,6 +21,7 @@ const EmissionCalculatorForm = () => {
         setCountry(data.Country);
       })
       .catch((error) => {
+
         setError(`Error fetching power and country information: ${error.message}`);
       });
   }, []);
@@ -92,6 +95,7 @@ const EmissionCalculatorForm = () => {
 
   return (
     <div>
+
       {/* <h2>Emission Calculator</h2> */}
       <h2 className="section-title">Emission Calculator</h2>
 
@@ -180,6 +184,11 @@ const EmissionCalculatorForm = () => {
           </p>
         </div>
       )}
+
+
+      
+    
+
 
     </div>
   );

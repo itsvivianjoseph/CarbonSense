@@ -1,0 +1,196 @@
+A journey towards sustainable future. A journey that starts with each and every one of us.
+
+Most of the people are unaware of their carbon footprint
+This unawareness leads to a misconception
+
+Making small changes in our daily lives that collectively make a significant impact.
+Our belief
+4
+
+CarbonSense
+Transformative , one-stop solution
+Track, Reduce, and Take control 
+of your carbon footprint
+
+But what sets CarbonSense apart from the rest?
+
+
+UEG(User-centric, Educative, Gamified) 
+Approach
+
+UEG(User-centric, Educative, Gamified) 
+Approach
+minimizing the burden
+maximizing the impact
+systems that aligns with the needs, preferences, and behaviors of users
+8
+We have streamlined the whole process
+
+UEG(User-centric, Educative, Gamified) 
+Approach
+We Aim to empower  the users through educative approach
+user-specific guidance
+Users to learn and make more informed choices
+
+UEG(User-centric, Educative, Gamified) 
+Approach
+Gamification techniques like Green competitions and Daily Quizzes
+Users compete and for a sense of motivation and participation they receive Green credits
+10
+In a crowded market of sustainability products, CarbonSense will standout
+Not only making sustainability more fun and engaging but puting it into practice
+
+Green Credits
+Central element of CarbonSense
+Incentives for making sustainable choices(Carbon Points)
+10,000 Carbon points = 1 Green Credit
+Utilized for transactions within the application's services.
+11
+Hold a real value
+
+
+Sustainable-Select
+Revolutionary feature in the market of sustainability products
+Green credits for User's Carbon consious shopping behaviour
+Find and purchase products with lowest carbon footprint
+Investors benefit from the potential market change
+
+12
+
+
+
+Impact of Sustainable-Select
+single household
+= 2kg
+cumulative impact
+of Thousands of users
+
+Environmental Impact:
+13
+
+Green Commute
+
+Game Changer in Online Vehicle Booking
+Shows you the route and carbon footprint of diffrent vehicls
+All you need to do:
+      Choose most sustainable option
+      Reduce Emission and Earn Green credits
+14
+
+Eco - Efficiency
+Calculates your personal impact  in Waste Generation
+Educate and Empower people to reduce Waste Carbon Footprint in their Locality
+Here's the exciting part: The Green Competition.
+Compete and earn Green credits
+
+15
+
+
+Impact of Eco - Efficiency
+Proven Examples
+
+Duolingo — grow its user base to more than 300 million.
+Autodesk — With conversion rates increasing by 15%.
+Kenco — 45% increase in sales 
+KFC Japan — Increase in-store sales by an impressive 106%.
+Kahoot! — growth rate of 75%
+16
+
+Power Optima
+
+Real-time Carbon Footprint based on Electricity usage
+Green credits for Users behavioural change in Electricity consumption
+Effortlessly monitor and optimize energy consumption
+17
+To make it even better: Power optima is also in Green competition
+
+
+Eco - Analytics
+Wraps Up all the features in one place
+Seamless visualization for all types of users
+Carbon Emission and Carbon Credit tracking
+
+Its not just an app
+but catalyst for change
+It aims to change the lifestyle
+Here's the interesting part!
+Bring out Behavioral changes
+18
+How do we do it? The modular Architecture of CarbonSense covers almost all the aspects
+
+
+Our vision aligns with the Gazette released by Ministry of Environment, Forest and Climate Change and LiFE Initiative
+These Green Credits will be made available for trading on a domestic market platform !
+It gave us a massive push to prove that our idea was feasible and its not far from reality
+19
+
+
+Beyond individual action
+Share of Global 
+Market Growth
+Share of Global 
+Market Value
+Sustainable products - Market
+17.8B usd
+60.1B usd
+21
+In-app purchases
+Sponserships and advertisements
+Premium subscription
+
+
+
+Business Model:
+Green-Commute : B2C Model
+Power-Optima : B2G & Freemium model
+Eco-Efficiency : Sponsorship Model
+20
+Eco-Shop : B2C & Subscription Model
+
+
+
+Market Strategies
+Social Media Promotions
+22
+Promotes our application as Green Market Place in Official Websites
+Promote Power-Optima through EB-Bill Recording Agents
+Promotion through Sustainablility Community
+Email Marketing
+
+
+
+Growth Strategies
+Subscription Revenue $12/year
+Collaboration Revenue 2% Total ROI
+Commission Revenue 0.5% + 0.5%
+20
+Email Marketing generates $0.08 in Revenue per mail
+
+
+Enhanced Data Analytics.
+Integration with Smart Home Devices.
+Gamification and Challenges.
+Expanded Sustainable Select Marketplace.
+Integration with Carbon Offsetting Programs.
+Collaborations with Governments and Institutions.
+CarbonConnect
+Unleashing Tomorrow's Potential: Future-Proofing CarbonSense
+23
+
+
+Our Home
+
+
+
+
+
+
+
+
+1.Frontend Dependencies: These technologies shape CarbonSense's user interface. React JS facilitates dynamic web components, while HTML and CSS provide structure and styling. Material-UI (MUI) offers ready-made UI elements, and Apex Charts aids in visualizing data.
+
+2.Backend Dependencies: Node.js and Express.js form the server-side core, handling data processing and API creation. MongoDB acts as the database for data storage. Together, they manage communication between frontend and backend.
+
+3.Authentication and Authorization Dependencies: These dependencies secure user access using JWT and enable seamless payments via Stripe, enhancing platform security and user experience.
+
+4.Various APIs: External APIs like Carbon Sutra, Flight Fare, and IRCTC API provide real-time data. Carbon Sutra calculates vehicle emissions, Flight Fare estimates flight carbon footprints, and IRCTC API assesses train-related emissions. These APIs enrich CarbonSense with accurate environmental information.

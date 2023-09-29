@@ -2,6 +2,7 @@ import React from "react";
 import "./Navbar.css"; // Import the CSS file
 import logo from "./logo.png";
 
+
 const Navbar = () => {
 
   return (
